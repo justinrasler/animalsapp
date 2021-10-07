@@ -18,3 +18,4 @@ const Animal = model("Animal", animalSchema)
 
 //export the model
 module.exports = Animal
+
